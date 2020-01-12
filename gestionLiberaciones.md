@@ -35,10 +35,8 @@ Una vez que se ha revisado de forma exhaustiva que el proyecto se ejecuta y que 
 
 ## Política de nombrado e identificación de los entregables
 
-La codificación de los documentos del proyecto será la siguiente: 
-**Decide-Moltres-Votacion-EGC-MN-G05.zip**
+En cuanto a la política de nombrado e identificación que hemos seguido para las versiones de los entregables, el patrón utilizado será del tipo X.Y.Z. Donde:
 
-   * **N** = Número de Milestone
-   * **G05** = Grupo de prácticas
-
-Este archivo comprimido contendrá el repositorio correspondiente a todo lo relacionado con el desarrollo de la funcionalidad perteneciente a nuestro módulo (en nuestro caso, votación) y se subirá siguiendo el método indicado anteriormente en el apartado _Proceso definido para las entregas_ a la Web de Opera http://opera.eii.us.es/
+* **X**: representa la versión principal del software, consistiendo en un conjunto de funcionalidades concretas que son recogidas y cubiertas en dicha versión.
+* **Y**: representa funcionalidad menor cubierta en la versión de software entregada.
+* **Z**: se modifica cuando hay revisiones de código ante fallos de la aplicación.
