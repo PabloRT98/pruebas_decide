@@ -2,6 +2,16 @@
 
 ## Proceso definido para las liberaciones con un apartado explícito de cómo ha elegido la licencia de software para su proyecto
 
+En cuanto al proceso definido para las liberaciones, estas siempre estarán enlazadas a una tag. Las tags hacen referencia a las distintas versiones del proyecto y están enlazadas con commits. Puede ver más información acerca de cómo administrar las liberaciones en **GitHub** [aquí](https://help.github.com/articles/creating-releases/). Si quiere obtener, de la misma forma, más información acerca del uso de las en **GitHub** puede consultar este [enlace](https://developer.github.com/v3/git/tags/).
+Se puede ver un ejemplo de liberación (release) [aquí](https://github.com/decide-moltres/decide-votacion/releases/tag/v1.1).
+
+#### 10.1.1. Licencia
+
+La licencia elegida para el proyecto Decide-Locaste es una licencia de tipo copyleft, en concreto la 
+[AGPL 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html). Esta licencia entre otras cosas especifica que el trabajo 
+desarrollado a partir de código que esté bajo ella debe seguir teniendo la misma licencia. Por lo tanto, no podemos 
+cambiarla ya que el proyecto parte de un fork de Decide que cuenta con una licencia de este tipo.
+
 ## Proceso definido para el despliegue
 Para todo lo que conlleva el proceso de despliegue y la automatización de las pruebas correspondientes a nuestro proyecto hemos usado la herramienta Travis con el objetivo de probar y desplegar nuestro código. Para configurar dicha herramienta, primeramente, tenemos que sincronizar nuestro perfil de GitHub, que contiene todos los repositorios (públicos) y seleccionar aquel que contiene todo el código perteneciente a nuestro proyecto. Para realizar dicha comunicación debemos especificar un archivo .travis.yml en el directorio base de nuestro proyecto que contendrá los parámetros necesarios para que cada vez que realicemos un push a nuestro repositorio remoto, la herramienta Travis comience a desarrollar un nuevo build en el que se comienzan a correr los tests correspondientes al código perteneciente de dicho push.
 
