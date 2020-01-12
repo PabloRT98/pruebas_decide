@@ -5,8 +5,6 @@
 En cuanto al proceso definido para las liberaciones, estas siempre estarán enlazadas a una tag. Las tags hacen referencia a las distintas versiones del proyecto y están enlazadas con commits. Puede ver más información acerca de cómo administrar las liberaciones en **GitHub** [aquí](https://help.github.com/articles/creating-releases/). Si quiere obtener, de la misma forma, más información acerca del uso de las tags en **GitHub** puede consultar este [enlace](https://developer.github.com/v3/git/tags/).
 Se puede ver un ejemplo de liberación (release) [aquí](https://github.com/decide-moltres/decide-votacion/releases/tag/v1.1).
 
-#### 10.1.1. Licencia
-
 La licencia elegida para el proyecto Decide-Moltres-Votacion es una licencia de tipo copyleft, en concreto la 
 [AGPL 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html). Esta licencia, entre otras cosas, especifica que el trabajo 
 desarrollado a partir de código que esté bajo ella debe seguir teniendo la misma licencia. Por lo tanto, no podemos 
