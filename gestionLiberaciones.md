@@ -28,9 +28,12 @@ Para más información sobre los procesos, métodos y parámetros utilizados, pu
 ## Proceso definido para las entregas
 En el caso de las entregas, los miembros del equipo deberán haber conformado una versión libre de fallos del proyecto, totalmente funcional o en su defecto, que la funcionalidad que implemente dicha versión a entregar actúe de la forma esperada.
 
-Es de vital importancia seguir un proceso de verificación de manera que asegure que el producto cumple con los requisitos establecidos antes de ser entregado
+Es de vital importancia seguir un proceso de verificación de manera que asegure que el producto cumple con los requisitos establecidos antes de ser entregado.
 
-Una vez que se ha revisado de forma exhaustiva que el proyecto se ejecuta y que funciona como debiera, será el Project Manager (junto con el resto del equipo) el que se encargue de verificar que la subida de todos los archivos correspondientes a nuestro trabajo se realiza de forma satisfactoria. Para la subida de archivos, utilizaremos la web de Opera proporcionada por la Universidad de Sevilla, como indicaremos debidamente en el siguiente apartado.
+Una vez que se ha revisado de forma exhaustiva que el proyecto se ejecuta y que funciona como debiera, será el Project Manager (junto con el resto del equipo) el que se encargue de verificar la completitud de todos los archivos correspondientes a nuestro trabajo (además del código, los documentos propios de la Wiki), que podrán visualizarse en nuestro repositorio remoto.
+
+Tras haber completado el proceso anterior, procederemos a cumplimentar el Formulario de Opera del Milestone que corresponda proporcionado por el profesorado de la asignatura.
+
 
 
 ## Política de nombrado e identificación de los entregables
