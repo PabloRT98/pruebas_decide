@@ -22,6 +22,11 @@ Para desplegar nuestra aplicación en este hosting, es obvio que debemos crearno
 
 Nuevamente y como en los casos descritos anteriormente, se añaden una serie de parámetros al archivo .travis.yml de manera que cuando todos los tests sean ejecutados correctamente, la aplicación procederá a desplegarse en Heroku con el código perteneciente al último commit de nuestro repositorio remoto.
 
+Para más información sobre los procesos, métodos y parámetros utilizados, puede consultar los siguientes enlaces
+[Travis calidad del código](https://1984.lsi.us.es/wiki-egc/index.php/Travis_calidad_de_c%C3%B3digo)
+[Gestión del despliegue: Heroku y Vagrant](https://1984.lsi.us.es/wiki-egc/index.php/Gesti%C3%B3n_del_despliegue:_Heroku_y_Vagrant)
+[Gestión de incidencias y integración continua completa](https://1984.lsi.us.es/wiki-egc/index.php/Gesti%C3%B3n_de_incidencias_y_integraci%C3%B3n_continua_completa)
+
 ## Proceso definido para las entregas
 En el caso de las entregas, los miembros del equipo deberán haber conformado una versión libre de fallos del proyecto, totalmente funcional o en su defecto, que la funcionalidad que implemente dicha versión a entregar actúe de la forma esperada.
 
