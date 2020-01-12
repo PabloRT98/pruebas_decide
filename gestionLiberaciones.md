@@ -36,7 +36,7 @@ Una vez que se ha revisado de forma exhaustiva que el proyecto se ejecuta y que 
 ## Política de nombrado e identificación de los entregables
 
 La codificación de los documentos del proyecto será la siguiente: 
-Decide-Moltres-Votacion-EGC-MN-G05.zip
+**Decide-Moltres-Votacion-EGC-MN-G05.zip**
 
    * **N** = Número de Milestone
    * **G05** = Grupo de prácticas
